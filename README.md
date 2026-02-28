@@ -1,7 +1,7 @@
 # RAPPORT DE CONTRE-AUDIT TECHNIQUE — Projets ABBEAV & TEATCHA
 
 **Date :** 28 Février 2026  
-**Auditeur :** Audit Indépendant (analyse du code source)  
+**Auditeur :** Audit Indépendant de OVANGA LIBOIRE KEVIN, Dev FullStack de www.csl-brands.com (analyse du code source)  
 **Objectif :** Valider ou infirmer le rapport technique de TERI Armand (25/02/2026)
 
 ---
